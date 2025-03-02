@@ -1,0 +1,9 @@
+# .gitignore
+*.dll
+*.pyd
+*.exe
+*.h5
+*.pkl
+__pycache__/
+IVENB/
+BH DATA/
